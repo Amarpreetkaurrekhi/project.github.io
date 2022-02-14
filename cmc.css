@@ -1,0 +1,49 @@
+.topnav {
+    overflow: hidden;
+    background-color:rgba(255, 174, 0, 0.911) ;
+    width: 100%;
+    display:block;
+    border: 8px;
+    border-color:black;
+  }
+  .topnav a {
+    float:left;
+    color:maroon;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration:darkslategray;
+    font-size: 17px;
+    display:block;
+    border-right: 1px solid grey;
+   
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .scroll{
+      overflow-y:scroll;
+      height: 400px;
+margin-right:20px;
+    border: 2px outset black;
+    text-align: center;
+    float:left;
+    
+    width:10%;
+    padding-right: 100px;
+
+  }
+  .sc{
+    color:red;
+  }
+  .right{
+     border:1px solid grey;
+      margin-left:400px;
+      padding:50px;
+  }

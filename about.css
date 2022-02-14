@@ -1,0 +1,24 @@
+.h2{
+    background-color:rosybrown;
+    text-align:center;
+    text-decoration:overline;
+}
+.side{
+    height: 150px;
+    margin-right:20px;
+    border: 2px outset black;
+    text-align:center;
+    float:left;
+    width:20%;
+}
+body{
+    background-image:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAAAA1BMVEWpk5o7Zfi2AAAASElEQVR4nO3BMQEAAADCoPVPbQwfoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC3AcUIAAFkqh/QAAAAAElFTkSuQmCC");
+    width:100%;
+    height:100%;
+}
+.below
+{
+    background-color:rosybrown;
+    height:40%;
+    
+}

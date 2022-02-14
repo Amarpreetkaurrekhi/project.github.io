@@ -1,0 +1,22 @@
+ques-Best health plans?
+ans-Tell me your
+1.Name
+2.Age
+3.phone no-
+4-who would you like to ensure:
+me    me+husband     + me +my husband & 1child
+me+my husband &2 children    my parents     +other members
+4.your age-
+
+continue
+bot-below plans cover covid-19 treatment
+care plus-Rs569/month
+feature
+95% Claim Settlement Ratio
+This is explained as (Number of Claims Settled / Number of Claims) by the Insurance Company.
+Source: Insurance Brokers Association of India Claims Handbook, Jan 2021
+Claim Settlement ratio for Covid-19 is 97% as per Insurer.
+Total Covid claims paid - ₹355 Cr., Total number of Covid claims - 31,384 (approved + paid), Total number of cashless Covid claims - 18,879 (approved + paid).
+for more feature:
+https://health.policybazaar.com/
+

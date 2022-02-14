@@ -1,0 +1,55 @@
+body{
+   background-color:rgba(153, 205, 50, 0.226);
+}
+.back{
+    text-align:center;
+}
+.side{
+    height: 150px;
+    margin-right:20px;
+    border: 2px outset black;
+    text-align:center;
+    float:left;
+    width:20%;
+    padding-left: 20%;
+}
+.image{
+    border-style: double;
+    padding-left:18%;
+}
+.h2{
+    background-color:olivedrab;
+    text-align:center;
+    color:white;
+}
+
+.form{
+    border-right:2px outset black;
+    margin-right:20px;
+    float:left;
+    padding-bottom:5px;
+
+}
+.summer{
+  background-color:olivedrab;
+  width: 100%;
+  border: 8px;
+  border-color:black;
+}
+.girls{
+    color:white;
+    padding-left:20px;
+    background-color: olive;
+    
+}
+.classes{
+    color:white;
+    text-align:center;
+    padding-left:200px;
+  border-right: 2px outset black;
+}
+.content{
+    text-align:center;
+    padding-left: 150px;
+ 
+}
